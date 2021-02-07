@@ -29,3 +29,22 @@ effect_always_off = 0           # 熄灭
 effect_breath = 0               # 呼吸
 effect_flash = 0                # 闪烁
 effect_marquee = 0              # 跑马灯
+
+pwm_all = 0                     # PWM口
+pwm1 = 0
+pwm2 = 0
+pwm3 = 0
+pwm4 = 0
+pwm5 = 0
+pwm6 = 0
+
+clockwise = 0                   # 旋转方向，顺时针
+anticlockwise = 0
+
+chassis_yaw = 0
+chassis_pitch = 0
+chassis_roll = 0
+
+chassis_forward = 0
+chassis_translation = 0
+chassis_rotate = 0
